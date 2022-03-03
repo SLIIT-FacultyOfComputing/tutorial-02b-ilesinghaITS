@@ -13,6 +13,7 @@ scanf("%f", &data1); --> std::cin >> data1;
 scanf("%d", &data2); --> std::cin >> data2; 
 You already know that printf() in C is std::cout in C++ e.g.
 
+
 printf("Hello World") --> std::cout << "Hello World";
 2.54cm = 1 inch
 */
