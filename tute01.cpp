@@ -3,7 +3,7 @@
 
 Convert the C program given below which converts a length given in cm to inches to a C++ program.
 
-Please Note that the input command in C++ is std::cin. This is a representation of the Keyboard.
+Please note that the input command in C++ is std::cin. This is a representation of the Keyboard.
 
 e.g.
 
